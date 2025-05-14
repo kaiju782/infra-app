@@ -10,8 +10,6 @@
 ## 📁 프로젝트 구성
 
 ```
-
-.
 ├── Dockerfile             # Spring Boot 실행용 Docker 이미지 정의
 ├── app.sql                # 초기 DB 테이블 및 데이터 정의
 ├── mvnw / pom.xml / src/  # Spring Boot 프로젝트
