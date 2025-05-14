@@ -137,9 +137,3 @@ MIT License
 
 ---
 
-## 🙋 문의
-
-* 작성자: 당신의 이름 또는 팀
-* GitHub: [@your-id](https://github.com/your-id)
-
-```
