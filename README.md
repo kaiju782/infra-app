@@ -1,11 +1,7 @@
-# 📘 README.md 예시 (Spring Boot + Docker + MySQL)
-
 ```markdown
 # 🚀 Spring Boot + Docker + MySQL N-Tier Application
 
 이 프로젝트는 Spring Boot 백엔드 애플리케이션을 Docker 기반으로 배포하며, MySQL 데이터베이스와 연동되는 N-Tier 구조의 예제입니다.
-
----
 
 ## 📁 프로젝트 구성
 
