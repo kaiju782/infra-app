@@ -12,3 +12,4 @@ target/
 # Allow Dockerfile and .sql
 !Dockerfile
 !*.sql
+mysql/
