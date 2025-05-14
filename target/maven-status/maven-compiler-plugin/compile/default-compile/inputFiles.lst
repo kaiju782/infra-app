@@ -1,5 +1,5 @@
-C:\CE\99.practice\webBorad\app\src\main\java\app\api\controller\DeptAPIController.java
-C:\CE\99.practice\webBorad\app\src\main\java\app\AppApplication.java
-C:\CE\99.practice\webBorad\app\src\main\java\app\entity\Dept.java
-C:\CE\99.practice\webBorad\app\src\main\java\app\repository\DeptRepository.java
-C:\CE\99.practice\webBorad\app\src\main\java\app\service\DeptService.java
+/home/ubuntu/infra-app/src/main/java/app/AppApplication.java
+/home/ubuntu/infra-app/src/main/java/app/api/controller/DeptAPIController.java
+/home/ubuntu/infra-app/src/main/java/app/entity/Dept.java
+/home/ubuntu/infra-app/src/main/java/app/repository/DeptRepository.java
+/home/ubuntu/infra-app/src/main/java/app/service/DeptService.java
