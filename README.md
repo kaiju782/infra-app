@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Spring Boot + Docker + MySQL N-Tier Application
 
 이 프로젝트는 Spring Boot 백엔드 애플리케이션을 Docker 기반으로 배포하며, MySQL 데이터베이스와 연동되는 N-Tier 구조의 예제입니다.
@@ -8,8 +8,6 @@
 ├── Dockerfile             # Spring Boot 실행용 Docker 이미지 정의
 ├── app.sql                # 초기 DB 테이블 및 데이터 정의
 ├── mvnw / pom.xml / src/  # Spring Boot 프로젝트
-
-```
 
 ---
 
